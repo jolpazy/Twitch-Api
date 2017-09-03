@@ -1,0 +1,21 @@
+body {
+  background-color: #aca7e8;
+}
+
+.online {
+  
+  background-color: #c5f9f3;
+  margin: 10px 0px 10px 0px;
+  padding: 3px;
+}
+
+
+a:link {
+    text-decoration: none;
+}
+
+.offline {
+
+     background-color: #cbd0d3;
+
+}
